@@ -23,7 +23,6 @@ jobs:
             --max-retries 2
             --max-concurrency 8
             --accept '200..204,206,301..308,403,429'
-            --exclude-mail
             --exclude 'github-readme-stats\.vercel\.app'
             --exclude 'streak-stats\.demolab\.com'
             --exclude 'github-profile-trophy\.vercel\.app'
