@@ -14,22 +14,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Every template file the index points to must exist, and every
-      # relative link inside the repo must resolve.
-      - name: Check internal links
-        uses: lycheeverse/lychee-action@v2
-        with:
-          args: >-
-            --offline
-            --no-progress
-            'README.md' 'CONTRIBUTING.md'
-          fail: true
-
-      # External links in the curated docs (index, guides, credits) must
-      # be alive. Template files embed thousands of third-party author
-      # links that rot outside our control, so they are checked offline
-      # above but not fetched here.
-      - name: Check curated external links
+      # Validates the curated docs end to end: every template link in the
+      # index must resolve to a real file in the repo, and every external
+      # link in README/CONTRIBUTING must be alive. Template files embed
+      # thousands of third-party author links that rot outside our
+      # control, so they are deliberately not fetched.
+      - name: Check index and curated links
         uses: lycheeverse/lychee-action@v2
         with:
           args: >-
