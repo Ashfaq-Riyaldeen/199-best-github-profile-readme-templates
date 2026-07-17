@@ -9,7 +9,7 @@
 
 A curated collection of **199 GitHub profile README templates** to help you build an impressive profile page. Browse the index below, pick a design you like, and make it your own.
 
-**Why this collection?** Every template here has been link-checked, with hundreds of broken badge and widget URLs repaired to point at maintained services — so the designs actually render the way their authors intended.
+**Why this collection?** Every template here has been link-checked, with hundreds of broken badge and widget URLs repaired to point at maintained services  so the designs actually render the way their authors intended.
 
 ## How to use a template
 
@@ -18,7 +18,7 @@ A curated collection of **199 GitHub profile README templates** to help you buil
 3. On GitHub, create a new **public** repository named exactly the same as your GitHub username (e.g. `your-username/your-username`). GitHub will show its README on your profile page.
 4. Copy the template into that repository's `README.md`.
 5. Replace the original author's name, username, links, and stats URLs with your own details.
-6. Commit — your new profile page is live!
+6. Commit  your new profile page is live!
 
 > **Note:** Many templates use dynamic widgets such as [github-readme-stats](https://github.com/anuraghazra/github-readme-stats). Make sure you update the `username=` parameter in those image URLs, otherwise you'll be showing someone else's stats.
 
@@ -232,7 +232,7 @@ Want to add your own profile README to the collection? See [CONTRIBUTING.md](./C
 
 ## Credits & Attribution
 
-This collection is based on [awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) by [Durgesh Samariya](https://github.com/durgeshsamariya) — full credit to the original project and its contributors.
+This collection is based on [awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) by [Durgesh Samariya](https://github.com/durgeshsamariya)  full credit to the original project and its contributors.
 
 Every template remains the property of its original author, who is credited inside the template file itself. This repository does not claim ownership of any template's design or content. If you are the author of a template and would like it updated or removed, please [open an issue](https://github.com/Ashfaq-Riyaldeen/199-best-github-profile-readme-templates/issues).
 
