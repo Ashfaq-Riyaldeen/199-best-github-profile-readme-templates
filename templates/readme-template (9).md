@@ -359,9 +359,9 @@ I am Al-Amin, a student and tech enthusiast with a passion for software developm
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
 
-<p align="center"><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=alamin2731&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
+<p align="center"><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
 
-<p align="center"><img width="460" height="150" src="https://streak-stats.demolab.com/?user=alamin2731&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
+<p align="center"><img width="460" height="150" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
 
 <br>
 

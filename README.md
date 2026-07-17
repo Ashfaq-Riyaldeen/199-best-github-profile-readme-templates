@@ -22,6 +22,16 @@ A curated collection of **199 GitHub profile README templates** to help you buil
 
 > **Note:** Many templates use dynamic widgets such as [github-readme-stats](https://github.com/anuraghazra/github-readme-stats). Make sure you update the `username=` parameter in those image URLs, otherwise you'll be showing someone else's stats.
 
+### Stats cards: why they sometimes show "can't fetch data"
+
+The stats, streak, and trophy cards are images generated live by free community servers. Three things to know:
+
+- **The errors are temporary.** The public stats server rate-limits under heavy load and briefly shows an error card instead. Refresh the page and it comes back — and once a card loads, GitHub caches it.
+- **They will work for your account.** When you copy a template, replace every `username=` / `user=` value in the widget URLs with your own GitHub username. The cards then pull your live stats automatically on every visit — no maintenance needed, they always show your current numbers.
+- **Want guaranteed uptime?** Deploy your own free copy of the stats server and use its URL in your README — see the [official self-hosting guide](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own).
+
+In a few templates the original author's GitHub account no longer exists, so their stats cards show live demo data from the widget authors' accounts instead.
+
 ## Templates
 
 | # | Template |

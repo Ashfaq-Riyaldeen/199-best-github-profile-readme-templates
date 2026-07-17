@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajputjay41&label=Profile%20views&color=0e75b6&style=flat" alt="manvimadan12" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manvimadan12" alt="manvimadan12" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma" alt="manvimadan12" /></a> </p>
 
 - 🔭 I’m currently working on [#100DaysOfDeepLearning](https://www.instagram.com/ml.newzealand/) Challenge
 - 🌱 I’m currently learning about Computer Vision with Deep Learning
@@ -35,28 +35,28 @@
 
 
 <a href="https://github.com/manvimadan12/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=manvimadan12&show_icons=true&include_all_commits=true&theme=radical" alt="Manvi's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=radical" alt="Manvi's github stats" />
 </a>
 
 <a href="https://github.com/manvimadan12/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvimadan12&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" />
 </a> 
 
 <a href="https://github.com/manvimadan12/Becoming-ML_engineer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manvimadan12&repo=Becoming-ML_engineer&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Becoming-ML_engineer&theme=radical" />
 </a>
 
 
 <a href="https://github.com/manvimadan12/ML-Research-Papers-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manvimadan12&repo=ML-Research-Papers-&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=ML-Research-Papers-&theme=radical" />
 </a>   
 
 <a href="https://github.com/manvimadan12/Computer_Vision_Roadmap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manvimadan12&repo=Computer_Vision_Roadmap&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Computer_Vision_Roadmap&theme=radical" />
 </a>   
 
 <a href="https://github.com/manvimadan12/workout-training-using-ml">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manvimadan12&repo=workout-training-using-ml&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=workout-training-using-ml&theme=radical" />
 </a>   
 
 -----

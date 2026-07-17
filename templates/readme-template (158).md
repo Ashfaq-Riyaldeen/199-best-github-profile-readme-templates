@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Streak Stats
-<img src="https://streak-stats.demolab.com/?user=oribendetcx&theme=algolia" alt="oribendet"  />
+<img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=algolia" alt="oribendet"  />
 
 ## My Stats
-[![Ori' GitHub stats](https://github-readme-stats.vercel.app/api?username=oribendetcx&theme=dark)](https://github.com/oribendetcx/github-readme-stats&?theme=dark)
+[![Ori' GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark)](https://github.com/oribendetcx/github-readme-stats&?theme=dark)
 
 <details>
   <summary><b>⚡ Previous Talks</b></summary>

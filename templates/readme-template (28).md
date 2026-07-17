@@ -97,7 +97,7 @@
 
 <p>
 <a href="#">
-<img alt="Yogesh's streak" src="https://streak-stats.demolab.com/?user=vibrantfix&theme=dracula&hide_border=true&background=000000EE"/>
+<img alt="Yogesh's streak" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dracula&hide_border=true&background=000000EE"/>
 </a>
 </p>
 

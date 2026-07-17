@@ -46,9 +46,9 @@
 
 ![Views](https://komarev.com/ghpvc/?username=jrmydix&label=Profile+visitors:)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrmydix&layout=compact&theme=dark)](https://github.com/jrmydix)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/jrmydix)
 
-![Jérémy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrmydix&count_private=true&show_icons=true&theme=dark&hide=issues)
+![Jérémy's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&show_icons=true&theme=dark&hide=issues)
 
 </div><br>
 

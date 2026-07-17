@@ -59,12 +59,12 @@ Software Developer with expertise in full-stack development, mobile applications
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=it21266300&show_icons=true&theme=tokyonight&hide_border=true" alt="Vihinsa's GitHub Stats" height="170" />
-  <img src="https://streak-stats.demolab.com/?user=it21266300&theme=tokyonight&hide_border=true" alt="Vihinsa's GitHub Streak" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight&hide_border=true" alt="Vihinsa's GitHub Stats" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=tokyonight&hide_border=true" alt="Vihinsa's GitHub Streak" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=it21266300&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 🏆 Certifications & Badges

@@ -32,7 +32,7 @@ Talk to me about
 - 🔔 Subscribe:- [Harsh Kumar Khatri](https://www.youtube.com/channel/UCKNtMU9M559bmXxKoT6YeJw)
 - ⚡ Fun fact: Internet users blink less than usual.
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshkumarkhatri&hide=["issues"]&show_icons=true)
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshkumarkhatri&hide=issues&show_icons=true)
 
 ![visitors](https://komarev.com/ghpvc/?username=harshkumarkhatri)
 

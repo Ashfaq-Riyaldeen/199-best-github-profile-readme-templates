@@ -12,7 +12,7 @@
 - :memo: [Blog](https://chungzh.cn) :card_index: [Portfolio](https://chungzh.cc) :email: `chungzh07 at gmail.com` :airplane: [Telegram](https://t.me/realChungZH).
 - :peach: My [Scoop](https://scoop.sh) bucket [peach](https://github.com/ChungZH/peach).
 
-![ChungZH's github stats](https://github-readme-stats.vercel.app/api?username=ChungZH&theme=gruvbox&show_icons=true)
+![ChungZH's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=gruvbox&show_icons=true)
 
 
 ###### 💾 EOF

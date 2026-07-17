@@ -10,7 +10,7 @@ I'm an <b>undergraduate</b> at <a href="https://srmap.edu.in/"> <b>SRM Universit
 
 <br>
 <a href="https://github.com/soilshubham">
-   <img src="https://github-readme-stats.vercel.app/api?username=soilshubham&hide=issues&show_icons=true&theme=gotham&locale=en&layout=compact" alt="Sahil's github stats" width=450px/>
+   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=issues&show_icons=true&theme=gotham&locale=en&layout=compact" alt="Sahil's github stats" width=450px/>
 </a><br><br>
 
 <div id="tech"></div>

@@ -14,7 +14,7 @@
 
 ## Stats
 
-![GitHub](https://github-readme-stats.vercel.app/api?username=your_username_here&show_icons=true&theme=radical)
+![GitHub](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <br>
 
 
@@ -25,7 +25,7 @@
 
 ### Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username_here&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
 <br>
 
 
