@@ -19,7 +19,7 @@
 <a href="https://www.linkedin.com/in/mahii-variar-9865711b3/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
 
 <a href="https://codepen.io/mahiiverse" target="blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" style="height: 3rem; background-color:white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/codepen/codepen-plain.svg" style="height: 3rem; background-color:white"/>
 </a>
 
 <a href="mailto:mahiivariar26@gmail.com" target="blank">

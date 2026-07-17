@@ -14,33 +14,31 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Check links
+      # Every template file the index points to must exist, and every
+      # relative link inside the repo must resolve.
+      - name: Check internal links
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --offline
+            --no-progress
+            'README.md' 'CONTRIBUTING.md'
+          fail: true
+
+      # External links in the curated docs (index, guides, credits) must
+      # be alive. Template files embed thousands of third-party author
+      # links that rot outside our control, so they are checked offline
+      # above but not fetched here.
+      - name: Check curated external links
         uses: lycheeverse/lychee-action@v2
         with:
           args: >-
             --no-progress
             --timeout 20
             --max-retries 2
-            --max-concurrency 8
             --accept '200..204,206,301..308,403,429'
-            --exclude 'github-readme-stats\.vercel\.app'
-            --exclude 'streak-stats\.demolab\.com'
-            --exclude 'github-profile-trophy\.vercel\.app'
-            --exclude 'github-readme-activity-graph\.vercel\.app'
-            --exclude 'komarev\.com'
-            --exclude 'readme-typing-svg\.demolab\.com'
-            --exclude 'raw\.githubusercontent\.com'
-            --exclude 'user-images\.githubusercontent\.com'
-            --exclude 'camo\.githubusercontent\.com'
-            --exclude 'i\.imgur\.com'
-            --exclude 'herokuapp\.com'
-            --exclude 'glitch\.me'
-            --exclude 'twitter\.com'
-            --exclude 'x\.com'
-            --exclude 'linkedin\.com'
-            --exclude 'instagram\.com'
-            --exclude 'facebook\.com'
-            'README.md' 'CONTRIBUTING.md' 'templates/*.md'
+            --exclude 'img\.shields\.io'
+            'README.md' 'CONTRIBUTING.md'
           fail: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

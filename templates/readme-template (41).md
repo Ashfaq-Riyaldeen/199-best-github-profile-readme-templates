@@ -44,7 +44,7 @@
         <a href="https://www.r-project.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /></a>
         <a href="https://www.rust-lang.org/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" /></a>
         <a href="https://www.cprogramming.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></a>
-        <a href="https://www.lua.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" /></a>
+        <a href="https://www.lua.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/lua/lua-plain-wordmark.svg" /></a>
         <a href="https://html.com/html5/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> </a>
         <a href="https://www.markdownguide.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></a>
     </kbd>
@@ -71,7 +71,7 @@
       <kbd>Database</kbd>
       <br>
       <br>
-      <a href="https://www.mysql.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" /></a>
+      <a href="https://www.mysql.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/mysql/mysql-plain.svg" /></a>
       <a href="https://www.postgresql.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>
       <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /></a>
     </kbd>
