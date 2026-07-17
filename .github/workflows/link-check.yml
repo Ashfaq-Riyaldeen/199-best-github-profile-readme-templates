@@ -28,6 +28,7 @@ jobs:
             --max-retries 2
             --accept '200..204,206,301..308,403,429'
             --exclude 'img\.shields\.io'
+            --exclude 'github\.com/Ashfaq-Riyaldeen/199-best-github-profile-readme-templates'
             'README.md' 'CONTRIBUTING.md'
           fail: true
         env:
