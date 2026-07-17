@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+Iman!+👋;I'm+a+Front+End+Developer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+Iman!+👋;I'm+a+Front+End+Developer)
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Yaronzz)](https://twitter.com/malekianIman)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?logo=Gmail&logoColor=white&link=mailto:yaronhuang@foxmail.com)](mailto:imanmalekian31@gmail.com)

@@ -89,7 +89,7 @@
 
 </td></tr></table>
 
-[![Rafi Abro's github activity graph](https://activity-graph.herokuapp.com/graph?username=mrabro&theme=react&custom_title=Contribution%20Graph&radius=10)](https://github.com/mrabro)
+[![Rafi Abro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mrabro&theme=react&custom_title=Contribution%20Graph&radius=10)](https://github.com/mrabro)
 
 
 <div>

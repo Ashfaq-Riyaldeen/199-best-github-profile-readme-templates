@@ -126,10 +126,10 @@
 
 | | | | |
 | --- | --- | --- | --- |
-|🌞 Morning                |132 commits         |![](https://via.placeholder.com/112x22/000000/000000?text=+)![](https://via.placeholder.com/288x22/b8b8b8/b8b8b8?=text=+)|27.5%|
-|🌆 Daytime                |176 commits         |![](https://via.placeholder.com/148x22/000000/000000?text=+)![](https://via.placeholder.com/252x22/b8b8b8/b8b8b8?=text=+)|36.67%|
-|🌃 Evening                |147 commits         |![](https://via.placeholder.com/124x22/000000/000000?text=+)![](https://via.placeholder.com/276x22/b8b8b8/b8b8b8?=text=+)|30.63%|
-|🌙 Night                  |25 commits          |![](https://via.placeholder.com/20x22/000000/000000?text=+)![](https://via.placeholder.com/380x22/b8b8b8/b8b8b8?=text=+)|5.21%|
+|🌞 Morning                |132 commits         |![](https://placehold.co/112x22/000000/000000?text=+)![](https://placehold.co/288x22/b8b8b8/b8b8b8?=text=+)|27.5%|
+|🌆 Daytime                |176 commits         |![](https://placehold.co/148x22/000000/000000?text=+)![](https://placehold.co/252x22/b8b8b8/b8b8b8?=text=+)|36.67%|
+|🌃 Evening                |147 commits         |![](https://placehold.co/124x22/000000/000000?text=+)![](https://placehold.co/276x22/b8b8b8/b8b8b8?=text=+)|30.63%|
+|🌙 Night                  |25 commits          |![](https://placehold.co/20x22/000000/000000?text=+)![](https://placehold.co/380x22/b8b8b8/b8b8b8?=text=+)|5.21%|
 | | | | |
 
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
@@ -139,13 +139,13 @@
 
 | | | | |
 | --- | --- | --- | --- |
-|Monday                   |89 commits          |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|14.61%|
-|Tuesday                  |62 commits          |![](https://via.placeholder.com/40x22/000000/000000?text=+)![](https://via.placeholder.com/360x22/b8b8b8/b8b8b8?=text=+)|10.18%|
-|Wednesday                |91 commits          |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|14.94%|
-|Thursday                 |110 commits         |![](https://via.placeholder.com/72x22/000000/000000?text=+)![](https://via.placeholder.com/328x22/b8b8b8/b8b8b8?=text=+)|18.06%|
-|Friday                   |82 commits          |![](https://via.placeholder.com/52x22/000000/000000?text=+)![](https://via.placeholder.com/348x22/b8b8b8/b8b8b8?=text=+)|13.46%|
-|Saturday                 |72 commits          |![](https://via.placeholder.com/48x22/000000/000000?text=+)![](https://via.placeholder.com/352x22/b8b8b8/b8b8b8?=text=+)|11.82%|
-|Sunday                   |103 commits         |![](https://via.placeholder.com/68x22/000000/000000?text=+)![](https://via.placeholder.com/332x22/b8b8b8/b8b8b8?=text=+)|16.91%|
+|Monday                   |89 commits          |![](https://placehold.co/60x22/000000/000000?text=+)![](https://placehold.co/340x22/b8b8b8/b8b8b8?=text=+)|14.61%|
+|Tuesday                  |62 commits          |![](https://placehold.co/40x22/000000/000000?text=+)![](https://placehold.co/360x22/b8b8b8/b8b8b8?=text=+)|10.18%|
+|Wednesday                |91 commits          |![](https://placehold.co/60x22/000000/000000?text=+)![](https://placehold.co/340x22/b8b8b8/b8b8b8?=text=+)|14.94%|
+|Thursday                 |110 commits         |![](https://placehold.co/72x22/000000/000000?text=+)![](https://placehold.co/328x22/b8b8b8/b8b8b8?=text=+)|18.06%|
+|Friday                   |82 commits          |![](https://placehold.co/52x22/000000/000000?text=+)![](https://placehold.co/348x22/b8b8b8/b8b8b8?=text=+)|13.46%|
+|Saturday                 |72 commits          |![](https://placehold.co/48x22/000000/000000?text=+)![](https://placehold.co/352x22/b8b8b8/b8b8b8?=text=+)|11.82%|
+|Sunday                   |103 commits         |![](https://placehold.co/68x22/000000/000000?text=+)![](https://placehold.co/332x22/b8b8b8/b8b8b8?=text=+)|16.91%|
 | | | | |
 
 <!--END_SECTION_WEEKLY_COMMIT:readme-info-->
@@ -155,9 +155,9 @@
 
 | | | | |
 | --- | --- | --- | --- |
-|Python                   |10 repos|            ![](https://via.placeholder.com/224x22/000000/000000?text=+)![](https://via.placeholder.com/176x22/b8b8b8/b8b8b8?=text=+)|55.56%|
-|HTML                     |7 repos|             ![](https://via.placeholder.com/156x22/000000/000000?text=+)![](https://via.placeholder.com/244x22/b8b8b8/b8b8b8?=text=+)|38.89%|
-|JavaScript               |1 repos|             ![](https://via.placeholder.com/24x22/000000/000000?text=+)![](https://via.placeholder.com/376x22/b8b8b8/b8b8b8?=text=+)|5.56%|
+|Python                   |10 repos|            ![](https://placehold.co/224x22/000000/000000?text=+)![](https://placehold.co/176x22/b8b8b8/b8b8b8?=text=+)|55.56%|
+|HTML                     |7 repos|             ![](https://placehold.co/156x22/000000/000000?text=+)![](https://placehold.co/244x22/b8b8b8/b8b8b8?=text=+)|38.89%|
+|JavaScript               |1 repos|             ![](https://placehold.co/24x22/000000/000000?text=+)![](https://placehold.co/376x22/b8b8b8/b8b8b8?=text=+)|5.56%|
 | | | | |
 
 <!--END_SECTION_LANGUAGE:readme-info-->

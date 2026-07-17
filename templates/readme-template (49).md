@@ -112,7 +112,7 @@ Akshat.skills.push(...languages, ...frameworks, ...databases);
 </p>
 
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/dev-akshat/count.svg" alt="dev-akshat profile views" /> 
+  <img src="https://komarev.com/ghpvc/?username=dev-akshat" alt="dev-akshat profile views" /> 
 </p>
 
 <hr/>

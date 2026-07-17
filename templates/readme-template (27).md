@@ -4,7 +4,7 @@
   
   <h1 align="center">Heyy wasupp? I'm Sumanth 🤙<width="30px"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Data+Enthusiastic;Programmer;ML+Enthusiastic;Web+Designer;Tech-savvy+person+from+India)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Data+Enthusiastic;Programmer;ML+Enthusiastic;Web+Designer;Tech-savvy+person+from+India)](https://git.io/typing-svg)
   
   
 <!--<img align="right" alt="Coding" width="400" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">-->
@@ -156,7 +156,7 @@ Here are some ideas to get you started:
   
   <p align="center">
   <!--<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhuvaneshHingal&layout=compact&theme=solarized-light"> <br>-->
-  <img src="https://profile-counter.glitch.me/SumanthBajjuri07/count.svg">
+  <img src="https://komarev.com/ghpvc/?username=SumanthBajjuri07">
 </p>
   
   

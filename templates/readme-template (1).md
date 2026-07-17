@@ -81,7 +81,7 @@
 </span><span align="center">
  
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=donpablonow&show_icons=true&locale=en" alt="donpablonow" />
-<img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=donpablonow&" alt="donpablonow" />
+<img width="45%"  src="https://streak-stats.demolab.com/?user=donpablonow&" alt="donpablonow" />
  
  <br/>
  <h2> Blog posts </h2>

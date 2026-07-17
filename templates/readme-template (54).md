@@ -102,7 +102,7 @@
 
 <p align="center"> 
   <b>Visitor count</b><br>
-  <img src="https://profile-counter.glitch.me/manojuppala/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=manojuppala" />
   </br>
       <img align="center" alt="GIF" src="https://github.com/manojuppala/manojuppala/blob/master/assets/code.gif?raw=true" width="750" height="520" />
 </p>

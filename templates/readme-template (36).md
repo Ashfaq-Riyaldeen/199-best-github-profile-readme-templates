@@ -99,7 +99,7 @@
 <p align="left">
   <a href="https://noelsjacob.herokuapp.com/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=noelsj007&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=noelsj007&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://streak-stats.demolab.com/?user=noelsj007&theme=gruvbox&hide_border=true" />
 <h3 align="center">Frameworks and Libraries:</h3>
 
 <p align="center">

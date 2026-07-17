@@ -78,7 +78,7 @@
 
 <p align="center">
   <a href="https://github.com/smir45/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=smir45#version3"/>
+    <img src="https://streak-stats.demolab.com/?user=smir45#version3"/>
   </a>
 </p>
 

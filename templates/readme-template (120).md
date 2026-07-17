@@ -42,7 +42,7 @@
 
 <img src='https://github-readme-stats.vercel.app/api?username=mostlypanda&show_icons=true&theme=radical&count_private=true'/>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostlypanda&count_private=true&theme=radical" alt="mostlypanda" />
+<img align="center" src="https://streak-stats.demolab.com/?user=mostlypanda&count_private=true&theme=radical" alt="mostlypanda" />
 
 <div style="flex: 33.33%; padding: 5px;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mostlypanda&count_private=true&theme=radical" alt="mostlypanda" /></div>

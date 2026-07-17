@@ -48,7 +48,7 @@ var developements = {
 - 5⭐[codechef handle](https://www.codechef.com/users/hehehehhehhe20)
 - Thanks for visiting this profile. Follow me to get all the updates about my repositories and my open source works.
 ## 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sudip-mondal-2002&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sudip-mondal-2002&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 ##
 
@@ -145,7 +145,7 @@ var developements = {
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="center" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=sudip-mondal-2002&theme=react&border=61dafb" alt="zumrudu-anka" />
+      <img align="center" width=396 src="https://streak-stats.demolab.com/?user=sudip-mondal-2002&theme=react&border=61dafb" alt="zumrudu-anka" />
     </a>
       <br><br>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">

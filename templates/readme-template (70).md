@@ -128,7 +128,7 @@
 
 ### 🔥 Streak Stats
 
-![Berkeli's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=berkeli&theme=tokyonight)
+![Berkeli's GitHub stats](https://streak-stats.demolab.com/?user=berkeli&theme=tokyonight)
 
 ### 📊 Contribution Stats
 

@@ -9,10 +9,10 @@
 <img src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" alt="img" width="30%" align="center"/>
 
 ## Contribution Graph 
-<a href="https://github.com/nuhmanpk"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nuhmanpk&bg_color=20222b&color=F8D866&line=F85D7F&point=FFFFFF&theme=dark" /></a>
+<a href="https://github.com/nuhmanpk"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=nuhmanpk&bg_color=20222b&color=F8D866&line=F85D7F&point=FFFFFF&theme=dark" /></a>
 <Br>
 <a href="https://github.com/nuhmanpk">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuhmanpk&theme=dark" style="width:100%"/>
+    <img src="https://streak-stats.demolab.com/?user=nuhmanpk&theme=dark" style="width:100%"/>
   </a>
 <img src="https://github-readme-stats.vercel.app/api?username=nuhmanpk&theme=dark" style="width:100%">
 

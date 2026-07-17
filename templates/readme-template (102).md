@@ -47,6 +47,6 @@ Want to know more about me?
 <img src="https://github-profile-trophy.vercel.app/?username=hgdsandakalum&theme=onestar&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET" />
 
 ------
-![visitors](https://visitor-badge.glitch.me/badge?page_id=hgdsandakalum.602d829)
+![visitors](https://komarev.com/ghpvc/?username=hgdsandakalum)
 ##### Credit: [hgdsandakalum](https://github.com/hgdsandakalum) | Last Edited on: 17/10/2021
 

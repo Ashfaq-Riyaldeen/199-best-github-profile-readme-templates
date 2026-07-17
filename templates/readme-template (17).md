@@ -2,7 +2,7 @@
 
 <!-- visitor counter -->
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/kmhmubin/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=kmhmubin" />
 </p>
 
 <!-- welcome message -->

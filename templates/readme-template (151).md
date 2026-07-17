@@ -34,7 +34,7 @@ Talk to me about
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshkumarkhatri&hide=["issues"]&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=harshkumarkhatri.harshkumarkhatri)
+![visitors](https://komarev.com/ghpvc/?username=harshkumarkhatri)
 
 ----
 Credit: [harshkumarkhatri](https://github.com/harshkumarkhatri)

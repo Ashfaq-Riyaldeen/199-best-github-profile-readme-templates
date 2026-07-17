@@ -145,7 +145,7 @@ Linux                    5 hrs 57 mins       ███████████�
 <!--END_SECTION:waka-->
 <br>
 
-<p align="center"> <img src="https://profile-counter.glitch.me/{vibrantfix}/count.svg" alt="vibrantfix" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vibrantfix" alt="vibrantfix" /> </p>
 
 <a href="https://github.com/vibrantfix#gh-dark-mode-only">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>

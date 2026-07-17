@@ -182,9 +182,9 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pkkulhari&theme=radical&langs_count=15&layout=compact&hide_border=true)
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=pkkulhari&theme=redical&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=pkkulhari&theme=redical&hide_border=true&area=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=pkkulhari&theme=radical&hide_border=true)
+![](https://streak-stats.demolab.com/?user=pkkulhari&theme=radical&hide_border=true)
 
 ---
 

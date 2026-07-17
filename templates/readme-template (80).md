@@ -42,7 +42,7 @@
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaan71845&show_icons=true&locale=en" alt="shaan71845" /></p>  
   
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaan71845&" alt="shaan71845" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=shaan71845&" alt="shaan71845" /></p>
 
 ------
 Credit: [shaan71845](https://github.com/shaan71845)

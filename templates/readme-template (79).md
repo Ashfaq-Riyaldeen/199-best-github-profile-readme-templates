@@ -6,7 +6,7 @@
 
 <!--Header Name GIF or Animation-->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%ffffff&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Neeraj+Hariyale;Welcome+to+my+profile!" alt="Title"></img>
+  <img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&color=%ffffff&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Neeraj+Hariyale;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
 
@@ -103,7 +103,7 @@
     <summary><h2 style="display: inline-block">Visitor's Count 👀</h2></summary>
   </ul>
   <p align="center">
-    <img src="https://profile-counter.glitch.me/neerajhariyale/count.svg" alt="Visitor Badge"/>
+    <img src="https://komarev.com/ghpvc/?username=neerajhariyale" alt="Visitor Badge"/>
   </p>
 </div>
 
@@ -135,7 +135,7 @@
 
 <!-- Github Stats 2-->
 <p align="center">
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=neerajhariyale&background=000000&stroke=130F40&ring=2234AE&fire=D3D3D3&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3" alt="GitHub Streak" />
+       <img src="https://streak-stats.demolab.com/?user=neerajhariyale&background=000000&stroke=130F40&ring=2234AE&fire=D3D3D3&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3" alt="GitHub Streak" />
 
 
 <!--FOOTER-->

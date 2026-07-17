@@ -44,7 +44,7 @@
 
 
 
-<!--  ![visitors](https://visitor-badge.glitch.me/badge?page_id=coderjojo/coderjojo) -->
+<!--  ![visitors](https://komarev.com/ghpvc/?username=coderjojo) -->
 
 ![ViewCount](https://views.whatilearened.today/views/github/coderjojo/views.svg)
 

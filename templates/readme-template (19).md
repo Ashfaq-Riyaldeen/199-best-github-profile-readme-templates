@@ -19,7 +19,7 @@
   - Connect with me on LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hema-priya-v-74926318b)<br><br>
 
 ## Profile Visitors Count: 
-![Visitor Count](https://profile-counter.glitch.me/hema-priya-vadivel/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=hema-priya-vadivel)
 <!-- [![](https://visitcount.itsvg.in/api?id=hema-priya-vadivel&icon=6&color=10)](https://visitcount.itsvg.in) --> 
 
 ## 🌐 Socials:
@@ -65,7 +65,7 @@
 
 # <img src='https://media1.giphy.com/media/ww9Z3l8wl4szKyRIro/giphy.gif?cid=6c09b9520fbeh3st3881aensbfaaw9cvqfnfblovomtx4q8g&ep=v1_gifs_search&rid=giphy.gif&ct=g' width="50" height="40px"> GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hema-priya-vadivel&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hema-priya-vadivel&theme=radical&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=hema-priya-vadivel&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hema-priya-vadivel&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # <img src='https://i.gifer.com/6x6G.gif' width="50" height="40px"> GitHub Trophies

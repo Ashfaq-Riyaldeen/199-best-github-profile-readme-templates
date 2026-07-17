@@ -29,7 +29,7 @@ Then i recorded my screen to gif on Mac with Quicktime and https://gist.github.c
 </p>
 
 <p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=matyo91.matyo91" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=matyo91" alt="visitor badge"/>
 </p>
 
 -----

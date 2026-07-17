@@ -28,12 +28,12 @@
    
   ## <img src="https://media.giphy.com/media/GhRjInY9JbKms/source.gif" width="25"> <b>Contribution graph</b>
   
-![Deepu's Graph](https://activity-graph.herokuapp.com/graph?username=Deepshikhayadav&area=true&hide_border=true&theme=dracula)
+![Deepu's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Deepshikhayadav&area=true&hide_border=true&theme=dracula)
 
 
 ## <img src="https://media.giphy.com/media/Mp5uJLEE9Ompq/giphy.gif" width="25"> <b>GitHub Streak</b>
 
-<p align="center"> <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=deepshikhayadav&theme=dark" /> </p>
+<p align="center"> <img alt="Current Streak" src="https://streak-stats.demolab.com/?user=deepshikhayadav&theme=dark" /> </p>
   
 ## <img src="https://media.tenor.com/images/7e96d994f29b388f63f7aa77ff2bea78/tenor.gif" width="25"> <b> Know more about me 👋</b>
   

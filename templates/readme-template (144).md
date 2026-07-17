@@ -18,10 +18,10 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=talha442&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=talha442)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=talha442)  
 
 ![GitHub metrics](https://metrics.lecoq.io/talha442)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=talha442)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=talha442)  
 
 ![Profile views](https://gpvc.arturio.dev/talha442)  

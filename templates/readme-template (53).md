@@ -206,5 +206,5 @@
 </p topsongs>
 <!------ .TOP SONGS ------>
 <p align='center'>
-  <img src='https://profile-counter.glitch.me/sxoxgxi/count.svg'>
+  <img src='https://komarev.com/ghpvc/?username=sxoxgxi'>
 </p>

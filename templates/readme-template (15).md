@@ -132,7 +132,7 @@
             </a>
             <a href="https://github.com/lebathang/lebathang" title="Go to Source">
                 <img align="right" width=390
-                    src="https://github-readme-streak-stats.herokuapp.com?user=lebathang&theme=midnight-purple&hide_border=true&date_format=j/n/Y" />
+                    src="https://streak-stats.demolab.com?user=lebathang&theme=midnight-purple&hide_border=true&date_format=j/n/Y" />
             </a>
         </div>
         <br><br><br><br><br><br><br><br><br>

@@ -24,7 +24,7 @@ Skills: REACT / JS / HTML / CSS
 
 ![GitHub metrics](https://metrics.lecoq.io/Mogakamo)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mogakamo)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Mogakamo)  
 
 ![Profile views](https://gpvc.arturio.dev/Mogakamo)  
 

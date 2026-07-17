@@ -110,7 +110,7 @@
 
 
 <p>Total visitors till now 👇❤️</p>
-<img src="https://profile-counter.glitch.me/nitindahiya199/count.svg">
+<img src="https://komarev.com/ghpvc/?username=nitindahiya199">
 
 -------
 Credits: [nitindahiya199](https://github.com/nitindahiya199)

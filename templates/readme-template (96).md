@@ -60,7 +60,7 @@ Software Developer with expertise in full-stack development, mobile applications
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=it21266300&show_icons=true&theme=tokyonight&hide_border=true" alt="Vihinsa's GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=it21266300&theme=tokyonight&hide_border=true" alt="Vihinsa's GitHub Streak" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=it21266300&theme=tokyonight&hide_border=true" alt="Vihinsa's GitHub Streak" height="170" />
 </div>
 
 <div align="center">

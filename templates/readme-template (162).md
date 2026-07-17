@@ -1,4 +1,4 @@
-![](https://visitor-badge.glitch.me/badge?page_id=ridermansb.ridermansb)
+![](https://komarev.com/ghpvc/?username=ridermansb)
 
 <h2>It's me, @ridermansb!</h2>
 <p><em>Software Enginner at <a href="https://www.e-core.com/pt/">e-Core</a></br>

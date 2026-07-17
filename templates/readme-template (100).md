@@ -124,7 +124,7 @@
 <br><br>
 
 #### Thanks for visiting :heart:
-![VisitorCount](https://profile-counter.glitch.me/Shreya549/count.svg)
+![VisitorCount](https://komarev.com/ghpvc/?username=Shreya549)
 
 
 

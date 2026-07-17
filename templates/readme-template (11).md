@@ -231,7 +231,7 @@ If you want to discuss about it, feel free to contact me.
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=linitio&hide_border=true" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=linitio&hide_border=true" />
 </details>
 
 <details>

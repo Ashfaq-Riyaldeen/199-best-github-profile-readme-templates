@@ -20,7 +20,7 @@
 <h1>GitHub Stats 📊</h1>
  
 ![Mei's github stats](https://github-readme-stats.vercel.app/api?username=meisun0107&show_icons=true&theme=dracula) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meisun0107&theme=dracula)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=meisun0107&theme=dracula)](https://git.io/streak-stats)  
 
 <hr>
   

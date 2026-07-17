@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Tourney&center=true&color=2CFF00&size=40&width=750&height=80&lines=Prasanna%20Brabourame"/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Tourney&center=true&color=2CFF00&size=40&width=750&height=80&lines=Prasanna%20Brabourame"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Prasanna Brabourame</h1>
@@ -46,7 +46,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasannabrabourame&show_icons=true&locale=en" alt="prasannabrabourame" /></p></br></br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasannabrabourame&" alt="prasannabrabourame" /></p></br></br>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=prasannabrabourame&" alt="prasannabrabourame" /></p></br></br>
 
 
 ------

@@ -2,7 +2,7 @@
 
 # Hey there, I'm Bharat Verma 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=650&lines=Senior+Engineering+Manager+%40+Razorpay;15%2B+Years+in+Backend+%26+Distributed+Systems;Building+High-Scale+Payment+Platforms;Leading+Teams+%7C+Architecting+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=650&lines=Senior+Engineering+Manager+%40+Razorpay;15%2B+Years+in+Backend+%26+Distributed+Systems;Building+High-Scale+Payment+Platforms;Leading+Teams+%7C+Architecting+Solutions)](https://git.io/typing-svg)
 
 ![GitHub followers](https://img.shields.io/github/followers/bindian0509?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/bindian0509?style=social) [![LinkedIn](https://img.shields.io/badge/-Bharat%20Verma-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/bharatverma) [![Twitter](https://img.shields.io/badge/-@iAmBharatv-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/iambharatv)
 
