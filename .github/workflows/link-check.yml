@@ -1,0 +1,47 @@
+name: Link Check
+
+on:
+  schedule:
+    - cron: '0 6 1 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  link-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check links
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --no-progress
+            --timeout 20
+            --max-retries 2
+            --max-concurrency 8
+            --accept '200..204,206,301..308,403,429'
+            --exclude-mail
+            --exclude 'github-readme-stats\.vercel\.app'
+            --exclude 'streak-stats\.demolab\.com'
+            --exclude 'github-profile-trophy\.vercel\.app'
+            --exclude 'github-readme-activity-graph\.vercel\.app'
+            --exclude 'komarev\.com'
+            --exclude 'readme-typing-svg\.demolab\.com'
+            --exclude 'raw\.githubusercontent\.com'
+            --exclude 'user-images\.githubusercontent\.com'
+            --exclude 'camo\.githubusercontent\.com'
+            --exclude 'i\.imgur\.com'
+            --exclude 'herokuapp\.com'
+            --exclude 'glitch\.me'
+            --exclude 'twitter\.com'
+            --exclude 'x\.com'
+            --exclude 'linkedin\.com'
+            --exclude 'instagram\.com'
+            --exclude 'facebook\.com'
+            'README.md' 'CONTRIBUTING.md' 'templates/*.md'
+          fail: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

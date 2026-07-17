@@ -5,6 +5,7 @@
   <a href="https://github.com/Ashfaq-Riyaldeen/199-best-github-profile-readme-templates/network/members"><img src="https://img.shields.io/github/forks/Ashfaq-Riyaldeen/199-best-github-profile-readme-templates?style=for-the-badge&color=blue" alt="Forks"></a>
   <a href="https://github.com/Ashfaq-Riyaldeen/199-best-github-profile-readme-templates/commits/main"><img src="https://img.shields.io/github/last-commit/Ashfaq-Riyaldeen/199-best-github-profile-readme-templates?style=for-the-badge&color=green" alt="Last commit"></a>
   <a href="./CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge" alt="PRs welcome"></a>
+  <a href="https://github.com/Ashfaq-Riyaldeen/199-best-github-profile-readme-templates/actions/workflows/link-check.yml"><img src="https://img.shields.io/github/actions/workflow/status/Ashfaq-Riyaldeen/199-best-github-profile-readme-templates/link-check.yml?style=for-the-badge&label=links" alt="Link check"></a>
 </p>
 
 A curated collection of **199 GitHub profile README templates** to help you build an impressive profile page. Browse the index below, pick a design you like, and make it your own.
